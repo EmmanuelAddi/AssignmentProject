@@ -1,0 +1,43 @@
+
+form{
+    text-align: center;
+    padding: 20px;
+}
+.bg-1{
+    background-color: #ffffcc;
+    padding: 0px;
+    padding-bottom: 20px;
+
+}
+
+.bg-2{
+    background-color: #A6C5C1;
+    padding: 0px;
+    margin-top: 150px;
+    }
+.bg-3{
+    background-color: #A6C5C1;
+    padding: 0px;
+}
+.bg-4{
+    background-color: #A6C5C1;
+    padding: 0px;
+}
+.bg-5{
+    background-color: #A6C5C1;
+    padding: 0px;
+}
+
+.form-inline{
+    margin-top: 100px;
+}
+.well{
+    background-color: #a6a6a6;
+    margin-top: 32px;
+}
+body{
+    background-image: url(pictures/pexels-photo-453201.jpeg);
+
+}
+
+

@@ -1,0 +1,23 @@
+
+.button{
+    border-radius: 40%;
+}
+input{
+    border-radius: 40%;
+}
+.button{
+    border-radius: 20%;
+}
+.button1{
+    border-radius: 20%;
+    width: 100%;
+    display: inline;
+}
+.button:hover {
+    background-color: #595959; /* black */
+    color: #ffffff;
+}
+#label1{
+	color: #ffffff;
+}
+
